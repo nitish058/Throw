@@ -1,18 +1,18 @@
-# ShareDrop Requirements
+# Throw Requirements
 
 ## Functional Requirements
 
-ShareDrop must be able to discover compatible devices on the local network.
+Throw must be able to discover compatible devices on the local network.
 
-ShareDrop must allow users to send one or more files to another device.
+Throw must allow users to send one or more files to another device.
 
-ShareDrop must allow users to receive files from another device.
+Throw must allow users to receive files from another device.
 
-ShareDrop must display the progress of active file transfers.
+Throw must display the progress of active file transfers.
 
-ShareDrop must notify users when a transfer completes or fails.
+Throw must notify users when a transfer completes or fails.
 
-ShareDrop must work across supported platforms.
+Throw must work across supported platforms.
 
 ## Non-Functional Requirements
 
