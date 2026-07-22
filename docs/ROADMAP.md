@@ -1,4 +1,4 @@
-# ShareDrop Roadmap
+# Throw Roadmap
 
 ## v0.1.0
 
